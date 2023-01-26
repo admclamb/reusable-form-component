@@ -1,3 +1,3 @@
-# Finished Tutorial on Creating Fully Reusable Form Component
+Creating Fully Reusable Form Component
 
-This tutorial is available on my personal website
+Fully reusable form component that works by passing in a custom state object to creating the from. This tutorial is available on my personal website.
